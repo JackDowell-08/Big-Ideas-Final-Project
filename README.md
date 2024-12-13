@@ -16,4 +16,4 @@
 
 
 
-This repository uses three datasets to determine which neighborhood in Pittsburgh is the best. The metric used to determine
+This repository uses three datasets to determine which neighborhood in Pittsburgh is the best in terms of comfortability/safety. The metric used to determine comfortability/safety is determined by the number of fire incidents, condemned buildings, and staircases per neighborhood. A neighborhood with a low amount of each is considered a more comfortable, safe neighborhood.
